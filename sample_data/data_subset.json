@@ -1,0 +1,43 @@
+[
+    {
+        "BOUT_ID": "797823-ufc-296-leon-rocky-edwards-vs-colby-chaos-covington",
+        "EVENT_ID": "101868-ufc",
+        "EVENT_NAME": "UFC 296: Edwards vs. Covington",
+        "DATE": "2023-12-16",
+        "REGION": "US West",
+        "LOCATION": "Las Vegas, Nevada, United States",
+        "VENUE": "T-Mobile Arena",
+        "BOUT_ORDINAL": 11,
+        "UFCSTATS_EVENT_ID": "a8e8587a06e73c87",
+        "UFCSTATS_BOUT_ID": "3fa8ee3fdc04fe36",
+        "BOUT_CARD_TYPE": "Main",
+        "FIGHTER_1_ID": "21429-leon-edwards",
+        "FIGHTER_2_ID": "23634-colby-covington",
+        "FIGHTER_1_RECORD_AT_BOUT": "21-3-0",
+        "FIGHTER_2_RECORD_AT_BOUT": "17-3-0",
+        "FIGHTER_1_WEIGHT_POUNDS": 170.0,
+        "FIGHTER_2_WEIGHT_POUNDS": 169.5,
+        "FIGHTER_1_GYM": "Ultimate Training Centre",
+        "FIGHTER_2_GYM": "MMA MASTERS"
+    },
+    {
+        "FIGHTER_ID": "21429-leon-edwards",
+        "FIGHTER_NAME": "Leon Edwards",
+        "NATIONALITY": "United Kingdom",
+        "DATE_OF_BIRTH": "1991-08-25",
+        "HEIGHT_INCHES": 74.0,
+        "REACH_INCHES": 74.0,
+        "UFCSTATS_FIGHTER_ID": "f1fac969a1d70b08",
+        "SHERDOG_FIGHTER_ID": "leon-edwards-62665"
+    },
+    {
+        "FIGHTER_ID": "23634-colby-covington",
+        "FIGHTER_NAME": "Colby Covington",
+        "NATIONALITY": "United States",
+        "DATE_OF_BIRTH": "1988-02-22",
+        "HEIGHT_INCHES": 71.0,
+        "REACH_INCHES": 72.0,
+        "UFCSTATS_FIGHTER_ID": "dc9572dd6ec74859",
+        "SHERDOG_FIGHTER_ID": "colby-covington-57269"
+    }
+]
